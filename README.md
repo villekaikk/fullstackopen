@@ -1,2 +1,2 @@
-# fullstackopen
-Full stack open course exercises
+Full stack course complete exercises
+Course: [https://fullstackopen.com/](https://fullstackopen.com/)
